@@ -1,0 +1,81 @@
+/* wow this my good code men */
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background-color: #FFA200;
+}
+
+img {
+	display: block;
+	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	top: 0%;
+  height: 100px;
+  width: 100px;
+	opacity: 0.6;
+	transition: 1s;
+}
+
+img:hover{
+	opacity: 1;
+}
+
+a{
+	color: hotpink;
+	font-size: 15px;
+	top: auto;
+	text-decoration: none;
+	opacity: 0.6;
+	transition: 0.3s;
+}
+
+a:hover{
+	opacity: 1;
+}
+
+p{
+	color: white;
+	text-shadow: 2px 2px grey;
+}
+
+.nigga{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	text-decoration: auto;
+	opacity: 0.6;
+	transition: 0.3s;
+
+}
+
+ul{
+   list-style-type:none;
+	 bottom: 30%;
+   margin:10px;
+   padding:10px;
+   text-align: center;
+
+}
+li{
+	margin-left: 20px;
+	margin-right: 20px;
+   display:inline;
+}
+
+.PRETTYBOYALEX{
+	margin: 2%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	height: 500px;
+	width: 500px;
+	opacity: 1;
+}
+
+.PRETTYBOYALEX:hover{
+	opacity: 1;
+}
